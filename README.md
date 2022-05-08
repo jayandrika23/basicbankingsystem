@@ -23,5 +23,5 @@ Create a simple dynamic website which has the following specs.
 ![Mysql](https://img.shields.io/badge/backend-Mysql-pink.svg?logo=Mysql&style=flat-square)
 ![PHP](https://img.shields.io/badge/backend-PHP-yellow.svg?logo=PHP&style=flat-square)
 
-## Website Link:
-https://jayandrika.000webhostapp.com/
+## YouTube Link:
+https://youtu.be/24N7OlPhCsg
